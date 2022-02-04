@@ -9,3 +9,5 @@
 |E-05|[Kaggle Starting](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-05%5D%20Kaggle%20Starting/%5BE-05%5D%20Kaggle%20Starting.ipynb)|Kaggle|
 |E-06|[Movie Review](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-06%5D%20Movie%20Review/%5BE-06%5D%20Movie%20Review%20(1).ipynb)|NLP2|
 |E-07|[Image Seperate](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-07%5D%20Image%20Seperate/%5BE-07%5D%20Image%20seperate%20(1).ipynb)|Open CV|
+|E-08|[NEWS Summary](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-08%5D%20NEWS%20Summary/%5BE-08%5D%20NEWS%20Summary.ipynb)|NLP3|
+|E-09|[Pneumonia](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-09%5D%20Pneumonia/%5BE-09%5D%20Pneumonia.ipynb)|Deep Learning|
