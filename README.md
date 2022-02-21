@@ -11,3 +11,7 @@
 |E-07|[Image Seperate](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-07%5D%20Image%20Seperate/%5BE-07%5D%20Image%20seperate%20(1).ipynb)|Open CV|
 |E-08|[NEWS Summary](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-08%5D%20NEWS%20Summary/%5BE-08%5D%20NEWS%20Summary.ipynb)|NLP3|
 |E-09|[Pneumonia](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-09%5D%20Pneumonia/%5BE-09%5D%20Pneumonia.ipynb)|Deep Learning|
+|E-10|[Make CIFAR 10](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-10%5D%20Make%20CIFAR%2010/%5BE-10%5D%20Make%20CIFAR.ipynb)|GAN|
+|E-11|[ARIMA](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-11%5D%20ARIMA/%5BE-11%5D%20ARIMA.ipynb)|ARIMA|
+|E-12|[ChatBot](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-12%5D%20ChatBot/%5BE-12%5D%20ChatBot.ipynb)|ChatBot|
+|E-13|[Quiz](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-13%5D%20Quiz/%5BE-13%5D%20Quiz.ipynb)|BERT|
