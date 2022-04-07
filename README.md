@@ -16,3 +16,6 @@
 |E-12|[ChatBot](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-12%5D%20ChatBot/%5BE-12%5D%20ChatBot.ipynb)|ChatBot|
 |E-13|[Quiz](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-13%5D%20Quiz/%5BE-13%5D%20Quiz.ipynb)|BERT|
 |E-14|[Movielens](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-14%5D%20Movielens/%5BE-14%5D%20Movielens.ipynb)|추천 시스템|
+|E-15|[OCR](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-15%5D%20OCR/%5BE-15%5D%20OCR.ipynb)|OCR|
+|E-16|[Movielens-SBR](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-16%5D%20Movielen/%5BE-16%5D%20Movielens%20-%20SBR.ipynb)|Movielens-SBR|
+|E-17|[cGAN](https://github.com/youngchurl/EXPLORATION/blob/main/%5BE-17%5D%20cGAN/%5BE_17%5D_cGAN.ipynb)|cGAN|
